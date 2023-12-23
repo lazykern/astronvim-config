@@ -8,6 +8,8 @@ return {
   {
     "andweeb/presence.nvim",
     opts = {
+      client_id = "793271441293967371",
+      main_image = "file",
       neovim_image_text =  "What the hell are you looking for?",
     editing_text        = "Humiliating %s",               -- Format string rendered when an editable file is loaded in the buffer (either string or function(filename: string): string)
     file_explorer_text  = "Grazing %s",              -- Format string rendered when browsing a file explorer (either string or function(file_explorer_name: string): string)
