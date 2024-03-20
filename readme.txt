@@ -1,6 +1,4 @@
-
-
-backup files
+backup configs and neovim related files:
 ```
 mv ~/.config/nvim ~/.config/nvim.bak
 ```
